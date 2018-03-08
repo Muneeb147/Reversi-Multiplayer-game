@@ -1,0 +1,23 @@
+{
+  "name": "reversipart5",
+  "version": "1.0.0",
+  "description": "Socketio Nodejs Project",
+  "main": "client.js",
+  "dependencies": {
+    "engine.io": "^3.2.0",
+    "socket.io": "^1.7.4"
+  },
+  "engines":{
+  	"node" :"6.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "reversi"
+  ],
+  "author": "Muneeb Zia",
+  "license": "ISC"
+}
